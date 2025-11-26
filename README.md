@@ -68,16 +68,6 @@ A cartoon-like version of the image displayed in a window.
 
 ---
 
-## **Project File Structure**
-```
-/src
-    cartoonify.py
-/docs
-    README.md
-/data
-    (sample images)
-```
-
 ---
 
 ## **Setup & How to Run**
